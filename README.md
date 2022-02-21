@@ -1,5 +1,7 @@
 # AngularTypedTabulator
 
+This was actual for Tabulator version 4.9
+
 This project is an example of add typings for [Tabulator](http://tabulator.info/) on simple Angular application. This project is similar to [TypedTabulator](https://github.com/Jojoshua/TypedTabulator), but contains some specific Angular details.
 
 ## Run application
